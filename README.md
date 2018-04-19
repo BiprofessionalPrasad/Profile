@@ -1,4 +1,5 @@
 # Profile
+<h2>Typical Duties</h2>
 <ul>
 <li>Microsoft SQL server 2008, 2008R2, 2012, 2016. SSRS 2008. Understanding of OLTP RDBMS referential integrity, keys and constraints. Able to write complex SQL procedures, UDFs, views, triggers. Creating index, performance improvement. Installing, migrating, backup-restore, copy test-prod servers. Working in production environment. Support SQL for in-house developed .net Applications such as client care, learning plan, charge hour budget, HR employee portal, 360 reviews, independence process, PTO system et al.</li>
 <li>SQL server reporting Services &ndash; About 190 Active reports. Managing, writing, editing using Visual Studio (2008, 2010, 2015). Source Control using VSS and TFS. Data sources &ndash; SQL server database, OLAP Cube SSAS. Write and maintain dashboards. Migrate SSRS. Understanding &amp; Exposure to advanced analytics using Qlik, Tableau, Power BI.</li>
